@@ -1,1 +1,32 @@
+body {
+   background-image: url("fondo.jpg");
+}
+div {
+  border: 1px solid black;
+}
 
+{
+  margin: 20px;
+  padding: 20px;
+}
+
+#inf {
+  margin: auto;
+  margin-top: 30px;
+  width: 1070px;
+  height: 40px;
+}
+
+#inf1 {
+  margin: auto;
+  margin-top: 30px;
+  width: 790px;
+  height: 40px;
+}
+
+#inf2 {
+  margin: auto;
+  margin-top: 30px;
+  width: 790px;
+  height: 40px;
+}
